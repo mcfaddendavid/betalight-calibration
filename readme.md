@@ -43,8 +43,7 @@ your country.
 The parts have all been printed and tested on FDM printers, in particular the
 Ultimaker 3. The core and "top hat" parts should be printed in a black material. 
 
-<img src="images/core_support.jpg" width="300">
-<img src="images/core_support_removed.jpg" width="300">
+<img src="images/core_support.jpg" width="300"> <img src="images/core_support_removed.jpg" width="300">
 
 The core part needs to be printed with support, but it is also important that no
 support is generated within the cavity behind the exit aperture. Setting the
@@ -59,6 +58,8 @@ setting.
 
 <img src="images/insertion.jpg" width="300">
 
+https://user-images.githubusercontent.com/25613833/123168351-25300480-d478-11eb-8fc2-01346910f70a.mp4
+
 **Do not use excessive force on the glass tubes**, as they may break. Use the
 printed "exctraction tool" to push it into the slot. If you can't push it into
 the slot using the extraction tool, it is probably better to reprint the core
@@ -67,11 +68,10 @@ with a slightly bigger hole.
 Alternatively, the subfolder "core_different_tolerances" contains STL files with
 a range of different slot sizes. If you find that the slot is either too tight
 or too loose, you can print a different file without changing the print
-settings.
+settings. The standard file is "2.290mm.stl".
 
 I will probably tweak the tolerances further, so please back up any STL files
-you successfully print. Eventually, they will be added to a git repo along with
-the original CAD files.
+you successfully print. Openscad design files will follow soon.
 
 <img src="images/assembly.png" width="300">
 
