@@ -92,3 +92,13 @@ will likely need to adjust the horizontal expansion settings.
 <img src="images/holder_photo.jpg" width="300">
 
 <img src="images/spot.png" width="300">
+
+## Analysis
+
+The calibration can be performed using the photon transfer method. This can easily
+be done with the [NanoImagingPack library]((https://gitlab.com/bionanoimaging/nanoimagingpack/-/tree/feature2-calreadnoise)). (Scroll down for installation instructions. Requires python and numpy)
+
+For convenience we also wrote a GUI wrapper for the calibration routine
+specifically. For people who are unable to install python, we made a standalone build for Windows machines (x64) which can be downloaded
+[here](https://cloud.uni-jena.de/s/Br9ygp92nfTWkgN?path=%2Fgui-calibration-tool).
+Beware that this tool is in an experimental state and liable to change.
