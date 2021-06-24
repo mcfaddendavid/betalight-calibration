@@ -61,7 +61,7 @@ setting.
 https://user-images.githubusercontent.com/25613833/123168351-25300480-d478-11eb-8fc2-01346910f70a.mp4
 
 **Do not use excessive force on the glass tubes**, as they may break. Use the
-printed "exctraction tool" to push it into the slot. If you can't push it into
+printed "exctraction tool" to push the tube into the slot. If you can't push it into
 the slot using the extraction tool, it is probably better to reprint the core
 with a slightly bigger hole.
 
@@ -89,14 +89,14 @@ centring tool before tightening. This may be useful for detectors with a small
 area. Note that the tolerances are also relatively small for this part and you
 will likely need to adjust the horizontal expansion settings.
 
-<img src="images/holder_photo.jpg" width="300">
+<img src="images/holder_photo.jpg" height="300">
 
-<img src="images/spot.png" width="300">
+<img src="images/spot.png" height="300">
 
 ## Analysis
 
 The calibration can be performed using the photon transfer method. This can easily
-be done with the [NanoImagingPack library]((https://gitlab.com/bionanoimaging/nanoimagingpack/-/tree/feature2-calreadnoise)). (Scroll down for installation instructions. Requires python and numpy)
+be done with the [NanoImagingPack library](https://gitlab.com/bionanoimaging/nanoimagingpack/-/tree/feature2-calreadnoise). (Scroll down for installation instructions. Requires python and numpy)
 
 For convenience we also wrote a GUI wrapper for the calibration routine
 specifically. For people who are unable to install python, we made a standalone build for Windows machines (x64) which can be downloaded
