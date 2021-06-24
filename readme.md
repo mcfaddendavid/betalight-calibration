@@ -102,3 +102,5 @@ For convenience we also wrote a GUI wrapper for the calibration routine
 specifically. For people who are unable to install python, we made a standalone build for Windows machines (x64) which can be downloaded
 [here](https://cloud.uni-jena.de/s/Br9ygp92nfTWkgN?path=%2Fgui-calibration-tool).
 Beware that this tool is in an experimental state and liable to change.
+
+https://user-images.githubusercontent.com/25613833/123278240-12184580-d507-11eb-8506-f74449989370.mp4
