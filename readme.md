@@ -14,7 +14,7 @@ camera and produce a spot size of approximately 4mm.
 | ------ | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | 1      | Thorlabs C-mount retaining ring                                     | https://www.thorlabs.de/thorproduct.cfm?partnumber=CMRR                                                                                                     | 11.52 EUR     |
 | 1      | Thorlabs CS- to C-Mount Extension Adapter                           | https://www.thorlabs.de/thorproduct.cfm?partnumber=CML05                                                                                                    | 16.78 EUR     |
-| 1      | Cylindrical GTLS light source 2 mm x 12 mm (green colour suggested) | - http://www.beta-master.com/ (EU) <br> - https://www.total-fishing-tackle.com/gardner-tritium-max-betalights-isotopes (UK)  <br> - various sellers on eBay | 8.80 EUR      |
+| 1      | Cylindrical GTLS light source 2 mm x 12 mm (green colour suggested) | - http://www.beta-master.com/ (EU) <br> - https://www.total-fishing-tackle.com/gardner-tritium-max-betalights-isotopes (UK)  <br> - https://www.mixglo.com/ (International shipping) <br> - various sellers on eBay etc. | 8.80 EUR      |
 
 Betalights are available from various suppliers in different countries. They are
 also used as fishing tackle, and are stocked by various sellers of fishing
