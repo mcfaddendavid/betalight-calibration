@@ -6,7 +6,7 @@ This page describes a mount for a Gaseous Tritium Light Source (GTLS or
 "betalight"). The mount is designed to illuminate the image plane of a c-mount
 camera and produce a spot size of approximately 4mm.
 
-<img src="images/source_detector.png" width="300">
+<img src="images/source_detector.png" width="300"> <img src="images/spot.jpg" height="200">
 
 ### Non-printed parts
 
