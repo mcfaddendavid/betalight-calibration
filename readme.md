@@ -99,8 +99,7 @@ The calibration can be performed using the photon transfer method. This can easi
 be done with the [NanoImagingPack library](https://gitlab.com/bionanoimaging/nanoimagingpack/-/tree/feature2-calreadnoise). (Scroll down for installation instructions. Requires python and numpy)
 
 For convenience we also wrote a GUI wrapper for the calibration routine
-specifically. For people who are unable to install python, we made a standalone build for Windows machines (x64) which can be downloaded
-[here](https://cloud.uni-jena.de/s/Br9ygp92nfTWkgN?path=%2Fgui-calibration-tool).
+specifically. For people who are unable to install python, we made a standalone build for Windows machines (x64) which can be downloaded from the [releases page](https://github.com/mcfaddendavid/betalight-calibration/releases) (download and extract [gui-calibration-tool-v0.5_x64.zip](https://github.com/mcfaddendavid/betalight-calibration/releases/download/v0.5_x64/gui-calibration-tool-v0.5_x64.zip).
 Beware that this tool is in an experimental state and liable to change.
 
 https://user-images.githubusercontent.com/25613833/123278240-12184580-d507-11eb-8506-f74449989370.mp4
